@@ -8,10 +8,10 @@
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning JavaScript, and Reactjs
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtohipreshjohn@gmail.com.
+- 💼 Job interests: Front-end Engineer, or UI Engineer (Intern or Junior level).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1Y4LMaf_ZV1LFPPHZd5Vqs9-aO2FZO3s9/view?usp=sharing) and contact me by emailing mailtohipreshjohn@gmail.com.
 
 ---
 
