@@ -7,9 +7,7 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, and Reactjs
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I want to connect with anyone building something impactful.
 - 💼 Job interests: Front-end Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1Y4LMaf_ZV1LFPPHZd5Vqs9-aO2FZO3s9/view?usp=sharing) and contact me by emailing mailtohipreshjohn@gmail.com.
 
