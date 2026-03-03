@@ -8,8 +8,7 @@
 
 - 😊 Pronouns: She/Her
 - 😊 I want to connect with anyone building something impactful.
-- 💼 Job interests: Front-end Engineer, or UI Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1Y4LMaf_ZV1LFPPHZd5Vqs9-aO2FZO3s9/view?usp=sharing) and contact me by emailing mailtohipreshjohn@gmail.com.
+- 📫 Contact me: mailtohipreshjohn@gmail.com.
 
 ---
 
